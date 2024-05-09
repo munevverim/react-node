@@ -1,0 +1,1 @@
+npm install bcyrptjs express-async-handler jsonwebtoken mongose concurrently nodemon
